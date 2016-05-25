@@ -16,5 +16,8 @@
     "harmony"
   ],
   "author": "Sean McArthur <sean.monstar@gmail.com> (http://seanmonstar.com)",
-  "license": "MPLv2.0"
+  "license": "MPLv2.0",
+  "dependencies": {
+    "randombytes": "^2.0.3"
+  }
 }
